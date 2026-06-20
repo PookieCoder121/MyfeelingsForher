@@ -29,23 +29,23 @@ let noCount = 0;
 
 const galleryImages = [
   {
-    src: "assets/pic1.jpg",
+    src: "assets/pic1.JPG",
     caption: "Some people feel like peace, you are one of them ✨💗"
   },
   {
-    src: "assets/pic2.jpg",
+    src: "assets/pic2.JPG",
     caption: "A moment that feels soft in my heart ✨"
   },
   {
-    src: "assets/pic3.jpg",
+    src: "assets/pic3.JPG",
     caption: "We are better together 🌙"
   },
   {
-    src: "assets/pic4.jpg",
+    src: "assets/pic4.JPG",
     caption: "The smile I want to keep safe 💗🌙"
   },
   {
-    src: "assets/pic5.jpg",
+    src: "assets/pic5.JPG",
     caption: "You became my favorite thought without even trying 💗"
   }
 ];
