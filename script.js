@@ -99,7 +99,7 @@ function updateGallery(){
 
 document.getElementById("galleryImage").addEventListener("error", () => {
   const caption = document.getElementById("photoCaption");
-  caption.textContent = "Upload pic1.jpg to pic5.jpg inside the assets folder 💗";
+  caption.textContent = "Upload pic1.JPG to pic5.JPG inside the assets folder 💗";
 });
 
 function openMagic(){
